@@ -17,6 +17,7 @@ I refactored code from class materials and had my instructor and had a tutor hel
 
 This project is deployed using gitHub pages at https://katherinearenas.github.io/week-ten-challenge-karenas/
 
+The example SVG logo is in the example folder. [Linked Here.](https://github.com/katherinearenas/week-ten-challenge-karenas/blob/main/examples/logo.svg)
 
 Here is link to a video of an SVG logo being rendered:
 
